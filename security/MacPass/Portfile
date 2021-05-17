@@ -16,7 +16,7 @@ version                 0.8-RC2
 categories              security
 platforms               darwin
 license                 GPL-3
-maintainers             @janosch mailbox.org:janosch1 openmaintainer
+maintainers             {@janosch mailbox.org:janosch1} openmaintainer
 description             KeePass client for macOS
 long_description        ${name} is a native macOS port of KeePass. Key features are automatic \
                         form filling and regex matching of window titles to detect the correct target application. \
